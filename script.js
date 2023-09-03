@@ -53,6 +53,7 @@ function onSuccess(position) {
         })
         .catch(e => {
             console.log(e);
+            alert("Some error Occured");
         });
 
         const apidatasection = document.getElementById("apidata");
