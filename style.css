@@ -19,15 +19,15 @@
 
 .title_text{
     font-weight: 700;
-    font-size: 100px;
-    margin-bottom: 50px;
+    font-size: 7.5rem;
+    margin-bottom: 3rem;
 }
 
 .btn{
     font-weight: 300;
-    font-size: 24px;
-    width: 492px;
-    height: 58px;
+    font-size: 1.5rem;
+    width: 25%;
+    height: 8%;
     background-color: white;
     color: black;
 }
@@ -40,44 +40,44 @@
 }
 
 .mapsection{
-    padding: 50px;
+    padding: 3rem;
 }
 .mapsection>h1{
     font-weight: 700;
-    font-size: 54px;
-    margin-bottom: 30px;
+    font-size: 4rem;
+    margin-bottom: 3.5rem;
 }
 .tagline{
-    font-size: 26px;
+    font-size: 2rem;
     font-weight: 300;
 }
 .location{
     display: flex;
-    margin: 40px 0px;
+    margin: 2rem 0rem;
 }
 .laticont,.longicont{
-    margin-right: 25px;
+    margin-right: 1.2rem;
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 280px;
-    height: 57px;
-    font-size: 26px;
+    width: 18rem;
+    height: 4rem;
+    font-size: 1.5rem;
     font-weight: 700;
     text-align: center;
-    border-radius: 10px;
+    border-radius: 0.8rem;
     background-color: #270846;
 }
 
 #weath-sec{
-    padding: 50px;
+    padding: 3rem;
 }
 
 .weather-section>h1{
     color:#360369;
-    font-size: 54px;
+    font-size: 4rem;
     font-weight: 700;
-    margin-bottom: 50px;
+    margin-bottom: 3rem;
 }
 .weather-section{
     width: 100%;
@@ -93,12 +93,11 @@
     padding: 2% 4%;
     background-color: #360369;
     height: fit-content;
-    font-size: 20px;
-    border-radius: 10px;
-    margin: 0 .3rem;
+    font-size: 1.5rem;
+    border-radius: 0.8rem;
+    margin: 0.6rem 1rem;
     text-align: center;
-    margin-top: .5rem;
-    align-self: stretch;
+    /* margin-top: .6rem; */
 }
 
 
