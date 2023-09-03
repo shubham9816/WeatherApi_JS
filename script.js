@@ -62,6 +62,7 @@ function onSuccess(position) {
 
     function onError(error){
         alert("please allow Location access");
+        console.log(error);
 
         container.classList.remove("hide");
     }
